@@ -11,8 +11,8 @@
     "product_version_regex": ".*",
     "publisher": "Splunk Community",
     "license": "Copyright (c) 2021 Splunk Inc.",
-    "app_version": "1.0.0",
-    "utctime_updated": "2021-02-23T11:55:39.532327Z",
+    "app_version": "1.0.1",
+    "utctime_updated": "2021-11-10T19:23:57.000000Z",
     "package_name": "phantom_warc",
     "main_module": "warc_connector.py",
     "contributors": [
